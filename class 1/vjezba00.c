@@ -27,7 +27,7 @@ int main()
 	printf("\nString: %s  strcpy: %s  String: %s  mystrcpy: %s\n", str, dest, string, myDest);
 
 	//mystrcmp
-	printf("\nString: %s  cmpstr: %s  strcmp: %d  mystrcmp(1=2): %d cmpstr: %s  mystrcmp(1>2): %d  mystrcmp(1<2): %d\n", <br>
+	printf("\nString: %s  cmpstr: %s  strcmp: %d  mystrcmp(1=2): %d cmpstr: %s  mystrcmp(1>2): %d  mystrcmp(1<2): %d\n",
 	       str, dest, strcmp(dest, str), mystrcmp(dest, str), myDest, mystrcmp(myDest, dest), mystrcmp(dest, myDest));
 
 	printf("strlen: %d  mystrlen: %d\n", mystrlen(dest), mystrlen(myDest));
