@@ -18,7 +18,6 @@ void print_array(int*, int);
 int* sub_array(int *, int , int);
 int* filter_array(int *, int, int, int *);
 int** divide_array(int*, int);
-
 Polygon* new_polygon(float*, float*, int);
 Point** positive_points(Polygon*, int*);
 
