@@ -1,6 +1,6 @@
 # Data-structures-and-algorithms
 
-These are my assignments from my college class Data structures and algorithms. 
+These are my assignments for my college class Data structures and algorithms. 
 
 Learned to:<br>  
    1.define static and dynamic data structures and standard algorithms to work with them (stack, heap, arrays, lists, trees, graphs, hash      tables, sorting and searching algorithms, min-max algorithms)<br>  
