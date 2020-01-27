@@ -1,0 +1,6 @@
+﻿  stl.c
+D:\ProjDev\C projekti\strukt pod i algoritmi vjezbe\vjezba02\vjezba02\stl.c(21,32): warning C4018:  '<': signed/unsigned mismatch
+D:\ProjDev\C projekti\strukt pod i algoritmi vjezbe\vjezba02\vjezba02\stl.c(31,20): warning C4018:  '<': signed/unsigned mismatch
+D:\ProjDev\C projekti\strukt pod i algoritmi vjezbe\vjezba02\vjezba02\stl.c(49,32): warning C4018:  '<': signed/unsigned mismatch
+D:\ProjDev\C projekti\strukt pod i algoritmi vjezbe\vjezba02\vjezba02\stl.c(63,32): warning C4018:  '<': signed/unsigned mismatch
+  vjezba02.vcxproj -> D:\ProjDev\C projekti\strukt pod i algoritmi vjezbe\vjezba02\vjezba02\Debug\vjezba02.exe
